@@ -1,0 +1,7 @@
+Create a Project: Creating an Automated Build Workflow
+Create an mvc app: dotnet new mvc
+                   dotnet restore
+                   dotnet clean
+                   dotnet build 
+                   dotnet run
+                   
